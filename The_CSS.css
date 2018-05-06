@@ -1,7 +1,18 @@
-body{
-    background-color: blueviolet;
+body {
+  background-color: pink;
+}
+h1{text-align: center;}
+button {border-radius: 1em; padding: 1em; font-size: 18px;}
+.The_Div_Cool {border-style: solid; height: 150px;}
+
+
+.Div_Titulo{
+
+  background-color: darkgray;
+  min-width: 1200px;
+  max-width: 90%;
 }
 
-div{
-    background-color: brown;
+h1{
+  background-color: pink;
 }
